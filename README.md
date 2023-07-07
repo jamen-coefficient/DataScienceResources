@@ -223,7 +223,7 @@ Other available Visualization Resources.
 * [Scott Murray's D3 Tutorials](alignedleft.com/tutorials/d3/) Tutorials from *Interactive Data Visualization for the Web*
 * [tributary.io](http://tributary.io) - live code visualization platform designed specifically for D3.js
 * [plot.ly](http://plot.ly) - A web visualization and data processing platform
-* [blockspring](http://blockspring.com) - Share code and visualizations through a single platform
+* [coefficient.io](https://coefficient.io) - Automatically import your data into Google Sheets
 * [dot.append](http://enjalot.github.io/dot-append/) - Ian Johnson (enjalot) goes through several live-coding examples using D3
 * [Text Visualization Plots](#http://textvis.lnu.se/) - Interactive site with different types of text visualization for different problems.
 
